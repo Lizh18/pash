@@ -4,4 +4,8 @@ i think it is not a nessesary tool in development.
 
 OK
 
+it is not a markup
+
 ///////////////////////////////////
+
+append a string at the end of the file.
