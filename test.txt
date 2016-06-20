@@ -1,0 +1,7 @@
+This is the first time i use git for windows.
+
+i think it is not a nessesary tool in development.
+
+OK
+
+///////////////////////////////////
