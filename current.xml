@@ -1,0 +1,11 @@
+<update xmlns="https://update.evernote.com/public/ENWin5/enwinupdate.xsd">
+  <release version="5.9.6 Public" revision="277494" releasePercentage="100" minOSVersion="" maxOSVersion="">
+    <executable
+                length="96369872"
+                checksum="839934e0d16a779380c71d5cfe9dd45e"
+                url="http://cdn1.evernote.com/win5/public/Evernote_5.9.6.9494.exe"
+                type="exe"
+                params="/qb"/>
+    <releasenotes lang="en-us" url="https://update.evernote.com/public/ENWin5/ReleaseNotes_5.9.6.9494_en-us.html"/>
+  </release>
+</update>
