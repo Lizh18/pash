@@ -11,3 +11,5 @@ it is not a markup
 append a string at the end of the file.
 
 append a new string at the end.
+
+append another new string at the end.
