@@ -13,3 +13,7 @@ append a string at the end of the file.
 append a new string at the end.
 
 append another new string at the end.
+
+append another new string at the end.
+
+appending a string at the end.
