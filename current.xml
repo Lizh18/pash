@@ -1,4 +1,5 @@
 <update xmlns="https://update.evernote.com/public/ENWin5/enwinupdate.xsd">
+  <!-- abbrev -->
   <release version="5.9.6 Public" revision="277494" releasePercentage="100" minOSVersion="" maxOSVersion="">
     <executable
                 length="96369872"
