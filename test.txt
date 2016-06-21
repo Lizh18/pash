@@ -14,6 +14,6 @@ append another new string at the end.
 
 append another new string at the end.
 
-appending a string at the end.
+appends a string at the end.
 
 time is late.
